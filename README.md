@@ -46,6 +46,6 @@ Each row contains one user's monthly usage:
 
 ## Notebook
 
-➡️ Check out the full notebook: [`s7_tidied.ipynb`](./s7_tidied.ipynb)
+➡️ Check out the full notebook: [`mobile_plan_recs.ipynb`](./mobile_plan_recs.ipynb)
 
 ---
